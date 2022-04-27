@@ -1,5 +1,5 @@
-// Barbod Salehinoparvar
-// student number # 501120154
+//The owner of the code: Barbod Salehinoparvar
+
 
 
 
